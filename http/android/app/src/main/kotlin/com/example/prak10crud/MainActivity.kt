@@ -1,0 +1,6 @@
+package com.example.prak10crud
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
